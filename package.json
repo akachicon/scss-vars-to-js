@@ -19,9 +19,7 @@
     "postcss-loader": "^4.3.0",
     "postcss-scss": "^4.0.1",
     "resolve": "^1.20.0",
-    "sass-loader": "^10.2.0"
-  },
-  "peerDependencies": {
+    "sass-loader": "^10.2.0",
     "webpack": "^4.44.2"
   },
   "author": "Zharenko",
