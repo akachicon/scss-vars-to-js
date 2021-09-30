@@ -36,3 +36,6 @@ src/shared/services/translate/locales/en/messages.js
 src/shared/services/translate/locales/ru/messages.js
 src/shared/services/translate/locales/zh/messages.js
 public/meta.json
+
+### package manager
+yarn.lock
