@@ -1,5 +1,5 @@
 {
-  "name": "scss-to-less-vars",
+  "name": "scss-vars-to-js",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",

@@ -1,7 +1,7 @@
 const path = require('path');
 
-const scssToJsVars = require('../lib');
-scssToJsVars({ entry: path.resolve(__dirname, './src/main.scss') }).then(
+const scssVarsToJs = require('../lib');
+scssVarsToJs({ entry: path.resolve(__dirname, './src/main.scss') }).then(
   (data) => {
     const testPassed =
       data['dep-var1'] === '10px' &&
