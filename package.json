@@ -1,0 +1,26 @@
+{
+  "name": "scss-to-less-vars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.7",
+    "memfs": "^3.3.0",
+    "memory-fs": "^0.5.0",
+    "mini-css-extract-plugin": "^1.6.2",
+    "node-sass": "^5.0.0",
+    "postcss": "^8.3.8",
+    "postcss-import": "^14.0.2",
+    "postcss-loader": "^4.3.0",
+    "postcss-scss": "^4.0.1",
+    "prettier": "^2.4.1",
+    "resolve": "^1.20.0",
+    "sass-loader": "^10.2.0",
+    "webpack": "^4.46.0"
+  },
+  "author": "Zharenko",
+  "license": "ISC"
+}

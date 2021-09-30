@@ -1,0 +1,3 @@
+@import 'dep';
+
+$main-var: $dep-var1 + $dep-var2;
