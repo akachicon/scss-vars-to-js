@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test"
   },
-  "devDependencies": {
+  "dependencies": {
     "css-loader": "^5.2.7",
     "memfs": "^3.3.0",
     "memory-fs": "^0.5.0",
